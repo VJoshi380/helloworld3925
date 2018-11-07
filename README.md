@@ -1,5 +1,5 @@
 # helloworld3925
-  THE ENTIRE BEE MOVIE SCRIPT
+  THE BEE MOVIE SCRIPT
   
 "According to all known laws
 of aviation,
